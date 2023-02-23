@@ -22,6 +22,11 @@
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-paes-barbosa-neto-3b52a4251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ 
+ 
+ ### Studying in this moment:
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
 
 
 
